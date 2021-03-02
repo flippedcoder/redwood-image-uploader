@@ -18,6 +18,8 @@
     "@redwoodjs/web": "^0.26.2",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-images-upload": "^1.2.8",
+    "styled-components": "^5.2.1"
   }
 }
