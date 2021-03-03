@@ -22,6 +22,8 @@ const HomePage = () => {
         const base64Url = reader.result
 
         create({ variables: { file: base64Url, file_name: picture[0].name } })
+
+        location.reload()
       }
     })
   }
